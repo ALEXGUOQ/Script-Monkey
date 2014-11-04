@@ -1,5 +1,7 @@
 # Script Monkey
 
+![](https://raw.githubusercontent.com/shinrenpan/Script-Monkey/master/ScriptMonkey/Images.xcassets/AppIcon.appiconset/Icon-76.png)
+
 [Demo video](https://www.youtube.com/watch?v=ic5d5hmPOl4)
 
 Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到瀏覽器, 類似 firefox 的 Greasemonkey 功能.
