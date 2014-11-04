@@ -61,22 +61,6 @@ Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到�
 
 ### 其他問題請開 Issue
 
-## 贊助
-
-我之後會陸續將無法送審的 App 開源, 如果你想贊助, 可以透過以下方法:
-
-### Paypal:
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="LC58N7VZUST5N">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal － 更安全、更簡單的線上付款方式！">
-<img alt="" border="0" src="https://www.paypalobjects.com/zh_TW/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-### AdMob:
-
-你可以在你的 App 使用我的 AdMob Id:`ca-app-pub-9003896396180654/4692599394`
-
 ## License
 
 MIT License
