@@ -2,15 +2,13 @@
 
 [Demo video](https://www.youtube.com/watch?v=ic5d5hmPOl4)
 
-Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到瀏覽器,  
-類似 firefox 的 Greasemonkey 功能.
+Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到瀏覽器, 類似 firefox 的 Greasemonkey 功能.
 
 > 目前只允許注入單一 Javascript, 理論上是可以注入 N 個.
 
 ## Why open source
 
-違反了下列兩項 Review guideline, 雖然我已經把 download feature 拿掉,  
-甚至寫信給 DTS, 但申訴無效, 所以開源之.
+違反了下列兩項 Review guideline, 雖然我已經把 download feature 拿掉, 甚至寫信給 DTS, 但申訴無效, 所以開源之.
 
 第一條:
 > 2.7
@@ -46,14 +44,11 @@ Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到�
 
 ### 怎麼匯入 Javascript:
 
-目前可以使用 iTunes file sharing 透過 iTunes 匯入,
-或是利用 App 開啟 js 結尾的網站, 利用 Download 按鈕下載, 詳情請看 Demo video.
+目前可以使用 iTunes file sharing 透過 iTunes 匯入, 或是利用 App 開啟 js 結尾的網站, 利用 Download 按鈕下載, 詳情請看 [Demo video](https://www.youtube.com/watch?v=ic5d5hmPOl4).
 
 ### Javascript 沒作用:
 
-請先利用 JSLint or JSHint 檢查 Javascript 是否有問題.
-目前網路上的 script 都給一般瀏覽器網頁使用, 你可以到設定頁面切換 User-Agent 至 Safari,
-在注入 Javascript, 詳請請看 Demo video
+請先利用 JSLint or JSHint 檢查 Javascript 是否有問題. 目前網路上的 script 都給一般瀏覽器網頁使用, 你可以到設定頁面切換 User-Agent 至 Safari, 在注入 Javascript, 詳請請看 [Demo video](https://www.youtube.com/watch?v=ic5d5hmPOl4)
 
 ### 我是否能把 App 送審上架:
 
