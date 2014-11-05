@@ -32,6 +32,8 @@ Script Monkey 是一款 iPad App, 允許使用者注入自己的 Javascript 到�
 
 ## 編譯
 
+ios 8 or later
+
 此 App 使用以下 framework, 編譯前請先下載並設置
 
 [AdMob](http://www.google.com.tw/ads/admob/)
